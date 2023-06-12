@@ -1,0 +1,25 @@
+{
+  "name": "fra-website",
+    "version": "1.0.0",
+  "author": {
+    "email": "mail@francescomasala.me",
+"name": "Francesco Masala",
+"url": "https://francescomasala.me"
+  },
+    "description": "Francesco Masala's website",
+  "license": "GNU GPLv3",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxt": "^3.5.2",
+    "@nuxtjs/plausible": "^0.2.1"
+  }
+}
