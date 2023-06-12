@@ -27,6 +27,26 @@ a {
   text-decoration: none;
 }
 
+#a {
+  color: #0f0;
+}
+
+c {
+  color: #0bc;
+}
+
+#b {
+  color: #ff0096;
+}
+
+#k {
+  animation: change 1s;
+}
+
+#op {
+  color: #888888
+}
+
 @keyframes change {
   0% {
     color: #0f0;
