@@ -1,12 +1,12 @@
 {
   "name": "fra-website",
-    "version": "1.0.0",
+  "version": "1.0.0",
   "author": {
     "email": "mail@francescomasala.me",
-"name": "Francesco Masala",
-"url": "https://francescomasala.me"
+    "name": "Francesco Masala",
+    "url": "https://francescomasala.me"
   },
-    "description": "Francesco Masala's website",
+  "description": "Francesco Masala's website",
   "license": "GNU GPLv3",
   "private": true,
   "scripts": {

@@ -18,8 +18,8 @@ body {
 #console {
   font-family: courier, monospace;
   color: #fff;
-  width:750px;
-  font-size:14px;
+  width: 750px;
+  font-size: 14px;
 }
 
 a {
@@ -27,29 +27,15 @@ a {
   text-decoration: none;
 }
 
-#a {
-  color: #0f0;
-}
-
-c {
-  color: #0bc;
-}
-
-#b {
-  color: #ff0096;
-}
-
-#k {
-  animation: change 1s;
-}
-
-#op{
-  color: #888888
-}
-
 @keyframes change {
-  0%  { color:  #0f0; }
-  50% { color:  #0f0; }
-  99% { color: black; }
+  0% {
+    color: #0f0;
+  }
+  50% {
+    color: #0f0;
+  }
+  99% {
+    color: black;
+  }
 }
 </style>
