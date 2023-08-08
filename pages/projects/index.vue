@@ -4,8 +4,6 @@
 
 <template>
   <div class="bg-black text-white font-mono">
-    <div class="text-center">
-      <p> Website index </p>
-    </div>
+    <p> Projects index </p>
   </div>
 </template>
