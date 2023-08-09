@@ -9,7 +9,7 @@
       <div class="px-64 basis-1/3">
         <SidebarPortfolio/>
       </div>
-      <div class="basis-2/3 self-center">
+      <div class="basis-1/2 self-center">
         <div>
           <h1 class="text-purple-400 text-center">Programming Languages:</h1>
           <p class="px-2">• Java: Version 8, 11 and 17 | Mostly Web (JSP, Servlets) and CLI</p>

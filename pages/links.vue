@@ -9,7 +9,7 @@
       <div class="px-64 basis-1/3">
         <SidebarPortfolio/>
       </div>
-      <div class="py-18 basis-2/3 self-center">
+      <div class="basis-1/2 self-center">
         <div class="justify-center text-center">
           <p>Here you can find a list of my favourite websites</p>
           <br/>
