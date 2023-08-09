@@ -7,7 +7,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="bg-black text-white font-mono">
+  <div class="text-center">
   <p> AS index </p>
   </div>
 </template>
