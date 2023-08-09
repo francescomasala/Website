@@ -10,7 +10,7 @@
         <SidebarProjects/>
       </div>
       <div class="shrink basis-2/3">
-        <br/>
+        <div class="justify-center text-center">
         <h1 class="text-purple-400"> Bottles </h1>
         <br/>
         <p> Bottles is a Linux application that allows you to easily run Windows programs on Linux. </p>
@@ -20,7 +20,8 @@
         <p> I also take care of the website and the forum :p </p>
         <br/>
         <p> If you are interested in the project, you can find more information on the <a class="text-purple-400" href="https://usebottles.com">official website</a> or on the <a class="text-purple-400" href="https://github.com/bottlesdevs">GitHub organization</a>. </p>
-      </div>
+        </div>
+        </div>
     </div>
   </div>
 </template>

@@ -10,7 +10,7 @@
         <SidebarProjects/>
       </div>
       <div class="shrink basis-2/3">
-        <br/>
+        <div class="justify-center text-center">
         <h1 class="text-purple-400"> Bookfinder </h1>
         <br/>
         <p> Bookfinder is a project that I started in 2019, when I was still in high school. </p>
@@ -19,7 +19,8 @@
         <p>Alas, I was never able to fully publish the application but the code is public and everyone can <a href="https://github.com/Spoilers-TN/Bookfinder" class="text-purple-400"> Contribute </a> to it!</p>
         <br/>
         <p>Ps: Me and my friends are still working on it, so stay tuned! </p>
-      </div>
+        </div>
+        </div>
     </div>
   </div>
 </template>
