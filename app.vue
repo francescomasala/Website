@@ -1,6 +1,7 @@
 <template>
-  <body class="bg-black text-white font-mono"/>
-    <GeneralSiteHeader/>
-      <nuxt-page/>
-    <GeneralSiteFooter/>
+  <GeneralSiteHeader/>
+  <body class="bg-black text-white font-mono">
+    <nuxt-page/>
+  </body>
+  <GeneralSiteFooter/>
 </template>
