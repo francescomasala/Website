@@ -26,16 +26,6 @@ export default defineComponent({
       </tr>
       <tr class="h-20">
         <td>
-          <nuxt-link to="/as212539/info" class=" text-blue-500 hover:text-blue-800">Info</nuxt-link>
-        </td>
-      </tr>
-      <tr>
-        <td class="text-green-400">
-          -------
-        </td>
-      </tr>
-      <tr class="h-20">
-        <td>
           <nuxt-link to="/as212539/peering" class="text-blue-500 hover:text-blue-800">Peering Policy</nuxt-link>
         </td>
       </tr>
