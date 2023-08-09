@@ -10,9 +10,9 @@
             </div>
             <div class=" basis-1/3">
               <nuxt-link to="/" class="px-6 text-teal-400 hover:text-teal-600">Home</nuxt-link>
+              <nuxt-link to="/projects" class="text-teal-400 hover:text-teal-600">Projects</nuxt-link>
+              <nuxt-link to="/as212539" class="px-6 text-teal-400 hover:text-teal-600">AS212539</nuxt-link>
               <nuxt-link to="/blog" class="text-teal-400 hover:text-teal-600">Blog</nuxt-link>
-              <nuxt-link to="/projects" class="px-6 text-teal-400 hover:text-teal-600">Projects</nuxt-link>
-              <nuxt-link to="/as212539" class="text-teal-400 hover:text-teal-600">AS212539</nuxt-link>
             </div>
           </div>
       <p class="text-center text-green-400">

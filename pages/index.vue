@@ -9,8 +9,15 @@
       <div class="px-64 basis-1/3">
         <SidebarPortfolio/>
       </div>
-      <div class="shrink basis-2/3">
-        <p> Middle </p>
+      <div class="basis-2/3 self-center">
+        <div class="justify-center text-center">
+          <p>Hi! Welcome to my website, my name is Francesco and I'm a sysadmin from the northern part of Italy</p>
+          <br/>
+          <p>Currently I'm doing a couple of things, like:</p>
+          <p>• Studying Computer Science at the <a class="text-purple-400" href="https://unibz.it">Free University of Bolzano</a></p>
+          <p>• Working at (and managing) <a class="text-purple-400" href="https://hyperbit.it">HyperBit SRLs</a></p>
+          <p>• Managing the infra of <a class="text-purple-400" href="https://usebottles.com">Bottles</a> and other FOSS projects</p>
+        </div>
       </div>
     </div>
   </div>

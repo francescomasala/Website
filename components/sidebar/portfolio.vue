@@ -11,7 +11,7 @@ export default defineComponent({
     <table>
       <tr>
         <td class="text-green-400">
-          -----------
+          -------
         </td>
       </tr>
       <tr class="h-20">
@@ -21,17 +21,7 @@ export default defineComponent({
       </tr>
       <tr>
         <td class="text-green-400">
-          -----------
-        </td>
-      </tr>
-      <tr class="h-20">
-        <td>
-          <nuxt-link to="/info" class="text-blue-500 hover:text-blue-800">Info</nuxt-link>
-        </td>
-      </tr>
-      <tr>
-        <td class="text-green-400">
-          -----------
+          -------
         </td>
       </tr>
       <tr class="h-20">
@@ -41,7 +31,7 @@ export default defineComponent({
       </tr>
       <tr>
         <td class="text-green-400">
-          -----------
+          -------
         </td>
       </tr>
       <tr class="h-20">
@@ -51,7 +41,7 @@ export default defineComponent({
       </tr>
       <tr>
         <td class="text-green-400">
-          -----------
+          -------
         </td>
       </tr>
       <tr class="h-20">
@@ -61,7 +51,7 @@ export default defineComponent({
       </tr>
       <tr>
         <td class="text-green-400">
-          -----------
+          -------
         </td>
       </tr>
     </table>
