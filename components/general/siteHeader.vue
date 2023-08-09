@@ -15,6 +15,11 @@
               <nuxt-link to="/as212539" class="text-teal-400 hover:text-teal-600">AS212539</nuxt-link>
             </div>
           </div>
-        <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+      <p class="text-center text-green-400">
+        -----------
+      </p>
+      <br/>
     </header>
 </template>
+<script setup lang="ts">
+</script>
